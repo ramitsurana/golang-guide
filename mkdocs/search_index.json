@@ -2,18 +2,23 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Hitchhhiker's Guide to Golang:\n\n\nFor more info visit \nGithub\n.\n\n\n\n\n\n@ramitsurana\n\n\n\n\nStar\n\n\n\n\nFork\n\n\n\n\nContents:\n\n\n\n\nInstallation\n\n\nLicense\n\n\n\n\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\ndocs/env.md\n    ...       # Other markdown pages, images and other files.\n\n\n\nLicense\n\n\nThe following work is done under Apache License 2.0 \n\n\n#forkongithub a{background:#191919;color:#fff;text-decoration:none;font-family:arial,sans-serif;text-align:center;font-weight:bold;padding:5px 40px;font-size:1rem;line-height:2rem;position:relative;transition:0.5s;}#forkongithub a:hover{background:#2F5997;color:#fff;}#forkongithub a::before,#forkongithub a::after{content:\"\";width:100%;display:block;position:absolute;top:1px;left:0;height:1px;background:#191919;}#forkongithub a::after{bottom:1px;top:auto;}@media screen and (min-width:800px){#forkongithub{position:absolute;display:block;top:0;right:0;width:200px;overflow:hidden;height:200px;z-index:9999;}#forkongithub a{width:200px;position:absolute;top:60px;right:-60px;transform:rotate(45deg);-webkit-transform:rotate(45deg);-ms-transform:rotate(45deg);-moz-transform:rotate(45deg);-o-transform:rotate(45deg);box-shadow:4px 4px 10px rgba(0,0,0,0.8);}}\n\n\n\nFork me on GitHub", 
+            "text": "Hitchhhiker's Guide to Golang\n\n\nFor more info visit \nGithub\n.\n\n\n\n\n\n@ramitsurana\n\n\n\n\nStar\n\n\n\n\nFork\n\n\n\n\nContents\n\n\n\n\nInstallation\n\n\nFrameworks\n\n\nLicense\n\n\n\n\n\n\nHow it works:\n\n\nFirst,please insure you have the following packages \ninstalled and running.\n- python 2.6 or later\n- pip\n- pip install mkdocs\n\n\n\n\nClone the repo on your local machine\n\n\n\n\ngit clone https://github.com/ramitsurana/golang-guide.git\n\n\n\n\nGet into it\n\n\n\n\n`cd golang-guide'\n\n\n\n\nStart up the server\n\n\n\n\nmkdocs serve\n\n\nYou will be able to see the live session running at http://localhost:8000 on your \nfavourite browser.\n\n\nCommands\n\n\n\n\nmkdocs new [dir-name]\n - Create a new project.\n\n\nmkdocs serve\n - Start the live-reloading docs server.\n\n\nmkdocs build\n - Build the documentation site.\n\n\nmkdocs help\n - Print this help message.\n\n\n\n\nProject layout\n\n\nmkdocs.yml    # The configuration file.\ndocs/\n    index.md  # The documentation homepage.\ndocs/env.md\n    ...       # Other markdown pages, images and other files.\n\n\n\nLicense\n\n\nThe following work is done under \nApache License 2.0\n \n\n\n#forkongithub a{background:#191919;color:#fff;text-decoration:none;font-family:arial,sans-serif;text-align:center;font-weight:bold;padding:5px 40px;font-size:1rem;line-height:2rem;position:relative;transition:0.5s;}#forkongithub a:hover{background:#2F5997;color:#fff;}#forkongithub a::before,#forkongithub a::after{content:\"\";width:100%;display:block;position:absolute;top:1px;left:0;height:1px;background:#191919;}#forkongithub a::after{bottom:1px;top:auto;}@media screen and (min-width:800px){#forkongithub{position:absolute;display:block;top:0;right:0;width:200px;overflow:hidden;height:200px;z-index:9999;}#forkongithub a{width:200px;position:absolute;top:60px;right:-60px;transform:rotate(45deg);-webkit-transform:rotate(45deg);-ms-transform:rotate(45deg);-moz-transform:rotate(45deg);-o-transform:rotate(45deg);box-shadow:4px 4px 10px rgba(0,0,0,0.8);}}\n\n\n\nFork me on GitHub", 
             "title": "Home"
         }, 
         {
             "location": "/#hitchhhikers-guide-to-golang", 
             "text": "For more info visit  Github .   @ramitsurana   Star   Fork", 
-            "title": "Hitchhhiker's Guide to Golang:"
+            "title": "Hitchhhiker's Guide to Golang"
         }, 
         {
             "location": "/#contents", 
-            "text": "Installation  License", 
-            "title": "Contents:"
+            "text": "Installation  Frameworks  License", 
+            "title": "Contents"
+        }, 
+        {
+            "location": "/#how-it-works", 
+            "text": "First,please insure you have the following packages \ninstalled and running.\n- python 2.6 or later\n- pip\n- pip install mkdocs   Clone the repo on your local machine   git clone https://github.com/ramitsurana/golang-guide.git   Get into it   `cd golang-guide'   Start up the server   mkdocs serve  You will be able to see the live session running at http://localhost:8000 on your \nfavourite browser.", 
+            "title": "How it works:"
         }, 
         {
             "location": "/#commands", 
@@ -27,7 +32,7 @@
         }, 
         {
             "location": "/#license", 
-            "text": "The following work is done under Apache License 2.0   #forkongithub a{background:#191919;color:#fff;text-decoration:none;font-family:arial,sans-serif;text-align:center;font-weight:bold;padding:5px 40px;font-size:1rem;line-height:2rem;position:relative;transition:0.5s;}#forkongithub a:hover{background:#2F5997;color:#fff;}#forkongithub a::before,#forkongithub a::after{content:\"\";width:100%;display:block;position:absolute;top:1px;left:0;height:1px;background:#191919;}#forkongithub a::after{bottom:1px;top:auto;}@media screen and (min-width:800px){#forkongithub{position:absolute;display:block;top:0;right:0;width:200px;overflow:hidden;height:200px;z-index:9999;}#forkongithub a{width:200px;position:absolute;top:60px;right:-60px;transform:rotate(45deg);-webkit-transform:rotate(45deg);-ms-transform:rotate(45deg);-moz-transform:rotate(45deg);-o-transform:rotate(45deg);box-shadow:4px 4px 10px rgba(0,0,0,0.8);}}  Fork me on GitHub", 
+            "text": "The following work is done under  Apache License 2.0    #forkongithub a{background:#191919;color:#fff;text-decoration:none;font-family:arial,sans-serif;text-align:center;font-weight:bold;padding:5px 40px;font-size:1rem;line-height:2rem;position:relative;transition:0.5s;}#forkongithub a:hover{background:#2F5997;color:#fff;}#forkongithub a::before,#forkongithub a::after{content:\"\";width:100%;display:block;position:absolute;top:1px;left:0;height:1px;background:#191919;}#forkongithub a::after{bottom:1px;top:auto;}@media screen and (min-width:800px){#forkongithub{position:absolute;display:block;top:0;right:0;width:200px;overflow:hidden;height:200px;z-index:9999;}#forkongithub a{width:200px;position:absolute;top:60px;right:-60px;transform:rotate(45deg);-webkit-transform:rotate(45deg);-ms-transform:rotate(45deg);-moz-transform:rotate(45deg);-o-transform:rotate(45deg);box-shadow:4px 4px 10px rgba(0,0,0,0.8);}}  Fork me on GitHub", 
             "title": "License"
         }, 
         {
