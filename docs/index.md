@@ -18,25 +18,26 @@ For more info visit [Github](http://github.com/ramitsurana/golang-guide).
 * License
 * 
 
-## How it works:
+## How it works
 
 First,please insure you have the following packages 
 installed and running.
-- python 2.6 or later
-- pip
-- pip install mkdocs
+
+* python 2.6 or later
+* pip
+* pip install mkdocs
 
 * Clone the repo on your local machine
 
-`git clone https://github.com/ramitsurana/golang-guide.git`
+git clone https://github.com/ramitsurana/golang-guide.git
 
 * Get into it
 
-`cd golang-guide'
+cd golang-guide
 
 * Start up the server
 
-`mkdocs serve`
+mkdocs serve
 
 You will be able to see the live session running at http://localhost:8000 on your 
 favourite browser.

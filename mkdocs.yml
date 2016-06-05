@@ -1,6 +1,14 @@
 site_name: Golang-Guide
+repo_url: https://github.com/ramitsurana/golang-guide/
+site_author: Ramit Surana
 pages:
 - Home: index.md
-- Developer:
-    - 'Enviorment': 'dev/env.md'
-theme: flatly
+- Content:
+    - 'Developer': 'dev/env.md'
+    - 'Web Framework': 'frameworks/web.md'
+- About:
+    - 'About': 'about/about.md'
+    - 'License': 'about/LICENSE.md'
+site_favicon: favicon.ico
+theme: cosmo
+remote_branch: gh-pages
