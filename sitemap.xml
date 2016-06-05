@@ -17,6 +17,28 @@
      <changefreq>daily</changefreq>
     </url>
         
+    <url>
+     <loc>None/frameworks/web/</loc>
+     <lastmod>2016-06-05</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
+    
+        
+    <url>
+     <loc>None/about/about/</loc>
+     <lastmod>2016-06-05</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/about/LICENSE/</loc>
+     <lastmod>2016-06-05</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
     
 
 </urlset>
