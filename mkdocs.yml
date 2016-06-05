@@ -1,0 +1,6 @@
+site_name: Golang-Guide
+pages:
+- Home: index.md
+- Developer:
+    - 'Enviorment': 'dev/env.md'
+theme: flatly
