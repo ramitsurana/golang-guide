@@ -6,6 +6,8 @@ pages:
 - Content:
     - 'Developer': 'dev/env.md'
     - 'Web Framework': 'frameworks/web.md'
+    - 'Logging': 'log/log.md'
+    - 'Command Line': 'cmd/cli.md'
 - About:
     - 'About': 'about/about.md'
     - 'License': 'about/LICENSE.md'
