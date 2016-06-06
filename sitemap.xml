@@ -4,7 +4,7 @@
     
     <url>
      <loc>None/</loc>
-     <lastmod>2016-06-05</lastmod>
+     <lastmod>2016-06-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
     
@@ -13,13 +13,25 @@
         
     <url>
      <loc>None/dev/env/</loc>
-     <lastmod>2016-06-05</lastmod>
+     <lastmod>2016-06-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/frameworks/web/</loc>
-     <lastmod>2016-06-05</lastmod>
+     <lastmod>2016-06-07</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/log/log/</loc>
+     <lastmod>2016-06-07</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>None/cmd/cli/</loc>
+     <lastmod>2016-06-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
@@ -29,13 +41,13 @@
         
     <url>
      <loc>None/about/about/</loc>
-     <lastmod>2016-06-05</lastmod>
+     <lastmod>2016-06-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
         
     <url>
      <loc>None/about/LICENSE/</loc>
-     <lastmod>2016-06-05</lastmod>
+     <lastmod>2016-06-07</lastmod>
      <changefreq>daily</changefreq>
     </url>
         

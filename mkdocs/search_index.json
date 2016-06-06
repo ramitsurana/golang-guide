@@ -116,6 +116,46 @@
             "title": "Revel"
         }, 
         {
+            "location": "/log/log/", 
+            "text": "Logging\n\n\nLogging is an important \n\n\nLog\n\n\nLogrus\n\n\nWebsite: https://github.com/Sirupsen/logrus\n\n\nIt is a structured logger for Go (golang), completely API compatible with the standard library logger.It is a\neasy to use logging package.", 
+            "title": "Logging"
+        }, 
+        {
+            "location": "/log/log/#logging", 
+            "text": "Logging is an important", 
+            "title": "Logging"
+        }, 
+        {
+            "location": "/log/log/#log", 
+            "text": "", 
+            "title": "Log"
+        }, 
+        {
+            "location": "/log/log/#logrus", 
+            "text": "Website: https://github.com/Sirupsen/logrus  It is a structured logger for Go (golang), completely API compatible with the standard library logger.It is a\neasy to use logging package.", 
+            "title": "Logrus"
+        }, 
+        {
+            "location": "/cmd/cli/", 
+            "text": "Golang Command Line Tools\n\n\nSome of the famous command line tools\nto set you up and running golang with some basic prerequisites.\n\n\nCobra\n\n\nWebsite: https://github.com/spf13/cobra\n\n\n\n\nViper\n\n\nWebsite: https://github.com/spf13/viper", 
+            "title": "Command Line"
+        }, 
+        {
+            "location": "/cmd/cli/#golang-command-line-tools", 
+            "text": "Some of the famous command line tools\nto set you up and running golang with some basic prerequisites.", 
+            "title": "Golang Command Line Tools"
+        }, 
+        {
+            "location": "/cmd/cli/#cobra", 
+            "text": "Website: https://github.com/spf13/cobra", 
+            "title": "Cobra"
+        }, 
+        {
+            "location": "/cmd/cli/#viper", 
+            "text": "Website: https://github.com/spf13/viper", 
+            "title": "Viper"
+        }, 
+        {
             "location": "/about/about/", 
             "text": "About Hitchhiker's Guide to Golang:", 
             "title": "About"
